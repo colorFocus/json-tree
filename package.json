@@ -1,6 +1,6 @@
 {
 	"name": "json-tree",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "format your json as a tree",
 	"keywords": [
 		null,
@@ -8,7 +8,7 @@
 	],
 	"license": "MIT",
 	"main": "./lib/json-tree",
-	"repository": {},
+	"repository": "https://github.com/colorFocus/json-tree",
 	"dependencies": {
 		"fs-plus": "^2.9.3"
 	},
