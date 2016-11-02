@@ -1,0 +1,27 @@
+{
+	"name": "json-tree",
+	"version": "0.0.0",
+	"description": "format your json as a tree",
+	"keywords": [
+		null,
+		null
+	],
+	"license": "MIT",
+	"main": "./lib/json-tree",
+	"repository": {},
+	"dependencies": {
+		"fs-plus": "^2.9.3"
+	},
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"styles": [
+		"img/jsoneditor-icons.svg",
+		"img/jsoneditor-icons.png",
+		"jsoneditor.css",
+		"json-tree.less"
+	],
+	"activationCommands": {
+		"atom-workspace": "json-tree:toggle"
+	}
+}
